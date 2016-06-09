@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Rollback jQuery
-Plugin URI:  http://URI_Of_Page_Describing_Plugin_and_Updates
+Plugin URI:  https://github.com/michaelbrazell/wordpress-rollback-jquery
 Description: This plugin rolls jQuery 1.12.3 (or any other version) back to 1.11.3 from Google CDN.  It should only be used if you have a compatibility error with the latest version of jQuery bundled in Core.
 Version:     1.0
 Author:      Mike Murray
